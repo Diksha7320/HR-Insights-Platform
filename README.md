@@ -22,22 +22,34 @@ About Page: Simple explanation of the project
 🛠️ Tech Stack
 
 Python, Pandas, NumPy
+
 Streamlit
+
 Plotly
+
 Scikit-learn
+
 SQLite (in-memory)
 
 ▶️ Run Locally
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 📂 Project Structure
+
 app.py
+
 src/
   preprocessing.py
   modeling.py
+  
 data/
   HR data.csv
+  
 SQL/queries.docx
+
 Notebooks/
+
 requirements.txt
