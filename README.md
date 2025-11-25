@@ -37,19 +37,5 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-📂 Project Structure
 
-app.py
 
-src/
-  preprocessing.py
-  modeling.py
-  
-data/
-  HR data.csv
-  
-SQL/queries.docx
-
-Notebooks/
-
-requirements.txt
